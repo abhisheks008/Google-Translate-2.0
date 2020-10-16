@@ -1,5 +1,6 @@
 # Google-Translate-2.0
 This is a project on Python where I have created my own version of Google Translate and named as Google Translate 2.0
+<img src = >
 
 ## Contents :
 - Changing languages by default
@@ -9,5 +10,9 @@ This is a project on Python where I have created my own version of Google Transl
 - Limitations
 
 Hope you guys will like this project!
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 
 # abhisheks008
