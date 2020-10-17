@@ -10,6 +10,8 @@ This is a project on Python where I have created my own version of Google Transl
 - Automated Bot version of Google Translate
 - Limitations
 
+### For better understanding I have created a PDF file documentation from there you can have the proper documentry part and understand the matter. 
+
 Hope you guys will like this project!
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
